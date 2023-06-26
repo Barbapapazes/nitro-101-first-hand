@@ -2,7 +2,7 @@
   "name": "nitro-1010-first-hand",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "Getting started with Nitro, the TypeScript framework for writing ultra-fast web servers",
   "author": "Barbapapazes <pro.soubiran@gmail.com>",
   "license": "MIT",
   "keywords": [
