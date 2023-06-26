@@ -1,0 +1,29 @@
+{
+  "name": "nitro-1010-first-hand",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "author": "Barbapapazes <pro.soubiran@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "nitro"
+  ],
+  "scripts": {
+    "prepare": "npx nitropack prepare",
+    "dev": "npx nitropack dev",
+    "build": "npx nitropack build",
+    "preview": "node .output/server/index.mjs",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.39.5",
+    "eslint": "^8.43.0",
+    "h3": "^1.7.0",
+    "nitropack": "^2.5.1"
+  },
+  "dependencies": {
+    "ofetch": "^1.1.1"
+  }
+}
