@@ -1,6 +1,6 @@
 # Nitro 101 - First hand
 
-[Read my article (FR)](https://esteban-soubiran.site/articles/nitro-101-premire-prise-en-main/) to learn Nitro !
+[Read my article (FR)](https://esteban-soubiran.site/articles/nitro-101-premiere-prise-en-main/) to learn Nitro !
 
 ## Install dependencies
 
